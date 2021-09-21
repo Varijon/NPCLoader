@@ -1,0 +1,16 @@
+[
+{
+  "modid": "npcloader",
+  "name": "NPCLoader",
+  "description": "Mod that loads NPC from files made by NPCSaver.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
